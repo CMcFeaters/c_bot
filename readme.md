@@ -12,3 +12,10 @@ Somethign like that
 
 Will Use:
 coinbase api to start
+"pip install coinbase"
+
+python3
+
+branch: read_data
+How do we read market data?
+This branch will look at getting famililar with the API and reading some data 
