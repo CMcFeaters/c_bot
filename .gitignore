@@ -2,7 +2,11 @@
 *.txt
 *.pdf
 *.cfg
+*.env
 
 Lib/
 Scripts/
 Include/
+bin/
+__pycache__/
+auth.txt
