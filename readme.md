@@ -14,8 +14,8 @@ https://pypi.org/project/python-dotenv/
 
 python3
 
-
-
-
-
-NEED TO SETUP coinbase account and API misdrection
+Right now we just have established account access
+1) The *.env file contians your access info to the coinbase account.  should be located in [program direcroty]/env
+2) The *.env should contain 2 variables
+c_bot_API_KEY="whatever_the_key_is"
+c_bot_API_SECRET="whatever_the_secret_is" 
