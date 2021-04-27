@@ -15,5 +15,6 @@ pair="BTC-USD"
 #price=client.get_spot_price(currency=currency_code)
 price=client.get_spot_price(currency_pair=pair)
 
-print('Current bitcoin price is %s: %s'%(price.currency,price.amount))
+for i in range(1000):
+	print('Current bitcoin price is %s: %s'%(price.currency,price.amount))
 
